@@ -1,0 +1,2 @@
+[19-May-2021 09:59:18 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/bahriamall/public_html/Api/config/test.php on line 7
+[19-May-2021 09:59:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/bahriamall/public_html/Api/config/test.php on line 7
